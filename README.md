@@ -69,7 +69,6 @@ Follow these steps to use the script:
    You can add additional attributes as needed.
    
       <div align="center">
-   <br/>
 <img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/dc638550-76e2-44df-93e0-e3df27a5b309" height="60%" width="60%" alt="CSV FIle Example"/>
 <br />   
    </div>
@@ -87,7 +86,6 @@ Follow these steps to use the script:
 5. **Follow Prompts:**: The script will prompt you for the CSV file path, a secure password for user accounts, and whether to enable or disable user accounts.
 
    <div align="center">
-   <br/>
 <img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/f07cd4f6-6eb4-4763-9446-9a30c8b6e6e1" height="60%" width="60%" alt="Running Script Command Prompt View"/>
 <br />   
    </div>
@@ -96,7 +94,6 @@ Follow these steps to use the script:
 6. **User Account Creation:** Navigate to `Active Directory Users and Computers` to view your new users.
 
       <div align="center">
-   <br/>
 <img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/a2a49ef4-ec80-4f81-96db-bd35a7c7b844" height="60%" width="60%" alt="View of New Users"/>
 <br /> 
 
