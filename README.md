@@ -57,7 +57,7 @@ Follow these steps to use the script:
 
 1. **Clone or Download**: Clone or download this repository to your local machine.
 
-2. **Prepare CSV File**: Example: Create a CSV file with the following columns for user attributes:
+2. **Prepare CSV File**: Create a CSV file or use the sample provided (`users.csv`) which includes the following attributes:
 
    - SamAccountName
    - Name
@@ -93,7 +93,7 @@ Follow these steps to use the script:
    </div>
    <br /> 
 
-6. **User Account Creation:** Navigate to Active Directory Users and Computers to view your new users.
+6. **User Account Creation:** Navigate to `Active Directory Users and Computers` to view your new users.
 
       <div align="center">
    <br/>
